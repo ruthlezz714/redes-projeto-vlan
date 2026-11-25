@@ -1,5 +1,5 @@
 ## Diário de Desenvolvimento 
-## Sessão 01 - 25/11/2026
+> Sessão 01 - 25/11/2026
 
 ### Atividades realizadas
 - Inicialização do repositório Git.
