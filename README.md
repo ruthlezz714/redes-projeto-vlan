@@ -12,10 +12,6 @@ Desenvolver um projeto prático de redes de computadores utilizando VLANs, segme
 - GitHub
 - Visual Studio Code
 
-## Desenvolvimento
-
-Projeto em desenvolvimento.
-
 ## Organização
 
 - `main`: versão estável do projeto.
