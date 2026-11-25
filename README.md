@@ -1,4 +1,5 @@
 # Redes — Construindo um projeto com VLANs, politicas de acesso e conexão com a internet.
+![Badge de status do projeto com o texto Status: Em desenvolvimento, indicando que o projeto ainda está em andamento](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
 
 ## Objetivo
 
